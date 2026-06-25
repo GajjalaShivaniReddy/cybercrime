@@ -12,7 +12,7 @@
 - 📊 Dashboard with live stats
 - 🛡️ Admin panel for officer management
 
----
+
 
 ## 🚀 Setup Instructions
 
